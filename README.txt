@@ -1,0 +1,1 @@
+Upload all extracted ZIP contents into the root of the same GitHub Pages repository. Part 1 includes the homepage, articles listing, support page, CSS and index. Each part has 100 HTML articles in articles/.
